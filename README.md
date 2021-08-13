@@ -1,4 +1,3 @@
 Joowon Jang
 -------------
-Tech Stacks
 😄
