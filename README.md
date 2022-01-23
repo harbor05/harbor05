@@ -8,6 +8,7 @@
 -------------
 ### Interest
   * Cloud
+  * Crypto
   * Enterprise Business
   * SaaS
 
